@@ -1,0 +1,22 @@
+{% extends "base.html" %}
+{% load static %}
+
+
+{% block content %}
+	{% if not user.is_authenticated %}
+		<div id="mainLoginScreen" class="container-fluid">
+		<div id="loginBox" class="authForm">
+			<div>
+				<p style="color:red">{{ error }}</p>
+			</div>
+			<div>
+				<form action="{% url 'password_reset:password_reset_reset' token %}" method="POST">
+					{% csrf_token %}
+					{{ form }}
+					<input class="btn btn-primary form-control" id="submitBtn" type="submit" value="Cambiar clave">
+				</form>
+			</div>
+		</div>
+	</div>
+	{% endif %}
+{% endblock %}

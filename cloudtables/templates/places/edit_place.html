@@ -1,0 +1,24 @@
+{% extends 'base.html' %}
+{% load i18n %}
+
+{% block title %}
+    {{ user.first_name }} - Edit place
+{% endblock %}
+
+{% block content %}
+    <div class="container">
+        <div class="authForm">
+            {% if placeUpdated %}
+                <div class="alert alert-success">
+                    <p>Modificaste tu lugar con éxito!</p>
+                    <a href="/place/{{ place.id }}">Administrar lugar</a>
+                </div>
+            {% endif %}
+            <form class="form" method="POST" enctype="multipart/form-data">
+                {% csrf_token %}
+                {{ form }}
+                <button type="submit" class="btn btn-success form-control">{% trans 'Guardar cambios' %}</button>
+            </form>
+        </div>
+    </div>
+{% endblock %}

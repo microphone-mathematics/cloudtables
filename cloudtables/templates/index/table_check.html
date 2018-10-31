@@ -1,0 +1,29 @@
+                    <table class="table table-striped table-hover">
+                        <thead>
+                            <th>Cantidad</th>
+                            <th>Item</th>
+                            <th>Precio unitario</th>
+                            <th>Precio total</th>
+                            <th>Acción</th>
+                        </thead>
+                        <tbody>
+                            {% for order in table.order_items.all %}
+                                {% if not order.payed %}
+                                    <tr>
+                                        <td>x{{ order.quantity }}</td>
+                                        <td>{{ order.item }}</td>
+                                        <td>${{ order.item.price }}</td>
+                                        <td>${{ order.price }}</td>
+                                        <td><button class="btn btn-success" data-order-id={{ order.id }} data-table-id={{ order.table.id }}>Pagar</button> <button class="btn btn-danger" data-order-id={{ order.id }} data-table-id={{ table.id }}>Borrar</button></td>
+                                    </tr>
+                                {% endif %}
+                            {% endfor %}
+                        </tbody>
+                    </table>
+                    <div class="subtotals">
+                        <h7><strong>Total: ${{ table.getTotal }}</strong></h7>
+                        {% if table.getTotal > 0 %}
+                            <button class="btn btn-success" data-table-id={{ table.id }}>Pagar</button>
+                            <button class="btn btn-danger" data-table-id={{ table.id }}>Borrar</button>
+                        {% endif %}
+                    </div>

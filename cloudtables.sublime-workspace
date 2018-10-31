@@ -1,0 +1,2525 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"margin-",
+				"margin-top\tproperty"
+			],
+			[
+				"Htt",
+				"HttpResponseForbidden\tclass"
+			],
+			[
+				"pla",
+				"place_id\tparam"
+			],
+			[
+				"wr",
+				"word-wrap\tproperty"
+			],
+			[
+				"ch",
+				"choosePlace\tfunction"
+			],
+			[
+				"File",
+				"FileInput\tclass"
+			],
+			[
+				"signup",
+				"signupView\tfunction"
+			],
+			[
+				"edit",
+				"editItem\tfunction"
+			],
+			[
+				"STATIC_",
+				"STATIC_ROOT"
+			],
+			[
+				"add",
+				"addTable\tfunction"
+			],
+			[
+				"Table",
+				"TableForm"
+			],
+			[
+				"margin",
+				"margin-bottom\tproperty"
+			],
+			[
+				"Text",
+				"TextInput\tclass"
+			],
+			[
+				"item",
+				"itemForm\tstatement"
+			],
+			[
+				"Item",
+				"ItemForm\tclass"
+			],
+			[
+				"dele",
+				"deleteFullOrder\tfunction"
+			],
+			[
+				"tabl",
+				"table_check\tstatement"
+			],
+			[
+				"totals",
+				"totals_args"
+			],
+			[
+				"order",
+				"orders_week\tstatement"
+			],
+			[
+				"tod",
+				"today_total\tstatement"
+			],
+			[
+				"local",
+				"localtime\tfunction"
+			],
+			[
+				"loca",
+				"localtime\tfunction"
+			],
+			[
+				"HttpR",
+				"HttpResponse\tclass"
+			],
+			[
+				"For",
+				"ForeignKey\tclass"
+			],
+			[
+				"ne",
+				"new_obj\tstatement"
+			],
+			[
+				"spot",
+				"spot_updates\tstatement"
+			],
+			[
+				"getRecen",
+				"getRecentUpdates\tfunction"
+			],
+			[
+				"Spot",
+				"SpotUpdate\tclass"
+			],
+			[
+				"Spo",
+				"SpotUpdateSerializer\tclass"
+			],
+			[
+				"sea",
+				"searchSpots\tfunction"
+			],
+			[
+				"Sea",
+				"SearchBar\tclass"
+			],
+			[
+				"Sear",
+				"SearchBar"
+			],
+			[
+				"IsA",
+				"IsAdminUser\tclass"
+			],
+			[
+				"I",
+				"IsAdminUser\tclass"
+			],
+			[
+				"Mode",
+				"ModelViewSet\tclass"
+			],
+			[
+				"Mod",
+				"ModelViewSet\tclass"
+			],
+			[
+				"vi",
+				"viewsets\tmodule"
+			],
+			[
+				"res",
+				"rest_framework\tmodule"
+			],
+			[
+				"address",
+				"address_components"
+			],
+			[
+				"Inte",
+				"IntegerRangeField\tclass"
+			],
+			[
+				"best",
+				"best_rating\tstatement"
+			],
+			[
+				"cantidad",
+				"cantidad_hombres"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"mar",
+				"margin-right\tproperty"
+			],
+			[
+				"Http",
+				"HttpResponse\tclass"
+			],
+			[
+				"render",
+				"render_to_string\tfunction"
+			],
+			[
+				"backr",
+				"background-color\tproperty"
+			],
+			[
+				"Email",
+				"EmailInput\tclass"
+			],
+			[
+				"fee",
+				"feedback_form\tstatement"
+			],
+			[
+				"feed",
+				"feedback_form"
+			],
+			[
+				"Feed",
+				"FeedbackMessageForm\tclass"
+			],
+			[
+				"Date",
+				"DateTimeField\tclass"
+			],
+			[
+				"max",
+				"max_length"
+			],
+			[
+				"backgro",
+				"background-color\tproperty"
+			],
+			[
+				"compl",
+				"completeSpotListAPI"
+			],
+			[
+				"com",
+				"completeSpotList\tmodule"
+			],
+			[
+				"emailCon",
+				"emailConfirmationOk\tfunction"
+			],
+			[
+				"user",
+				"userProfile\tstatement"
+			],
+			[
+				"get",
+				"get_object_or_404\tmodule"
+			],
+			[
+				"sp",
+				"spotOwnershipConfirmation\tfunction"
+			],
+			[
+				"send",
+				"sendEmailConfirmationOk\tfunction"
+			],
+			[
+				"sen",
+				"sendEmailConfirmationMessage\tfunction"
+			],
+			[
+				"updates",
+				"updates_overall\tstatement"
+			],
+			[
+				"nea",
+				"nearby_spots\tstatement"
+			],
+			[
+				"cle",
+				"cleaned_data\tstatement"
+			],
+			[
+				"u",
+				"uploadOffer\tfunction"
+			],
+			[
+				"Fil",
+				"FileInput\tclass"
+			],
+			[
+				"Dat",
+				"DateTimeInput\tclass"
+			],
+			[
+				"Off",
+				"OfferForm\tclass"
+			],
+			[
+				"Find",
+				"FindYourSpotContainer"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"b",
+				"background-color"
+			],
+			[
+				"si",
+				"signupForm"
+			],
+			[
+				"Signup",
+				"signupForm"
+			],
+			[
+				"ge",
+				"get_object_or_404\tfunction"
+			],
+			[
+				"In",
+				"IntegerField\tclass"
+			],
+			[
+				"Lo",
+				"LoginForm\tclass"
+			],
+			[
+				"text",
+				"text-align\tproperty"
+			],
+			[
+				"USER",
+				"USER_TYPE_CHOICES"
+			],
+			[
+				"logo",
+				"logoutView\tfunction"
+			],
+			[
+				"login",
+				"loginView\tfunction"
+			],
+			[
+				"fa-c",
+				"fa-check"
+			],
+			[
+				"fa",
+				"fa-clock"
+			],
+			[
+				"updates_1",
+				"updates_15_min\tstatement"
+			],
+			[
+				"spots",
+				"spots_place_ids\tstatement"
+			],
+			[
+				"spos",
+				"spots_place_ids"
+			],
+			[
+				"place",
+				"place_id"
+			],
+			[
+				"off",
+				"offerImage_upload_to\tfunction"
+			],
+			[
+				"data",
+				"data-lat"
+			],
+			[
+				"select",
+				"selectCountry"
+			],
+			[
+				"geolo",
+				"geolocationIsWorking"
+			],
+			[
+				"geo",
+				"geolocationIsWorking"
+			],
+			[
+				"bro",
+				"browserHasGeolocation"
+			],
+			[
+				"new",
+				"newWidth"
+			],
+			[
+				"N",
+				"newWidth"
+			],
+			[
+				"time",
+				"timezone\tmodule"
+			],
+			[
+				"image",
+				"image_spot\tstatement"
+			],
+			[
+				"base",
+				"base64\tmodule"
+			],
+			[
+				"cs",
+				"csrftoken"
+			],
+			[
+				"im",
+				"image_URI"
+			],
+			[
+				"form",
+				"form_data"
+			],
+			[
+				"ima",
+				"image_dataURI"
+			],
+			[
+				"device",
+				"device-height"
+			],
+			[
+				"pho",
+				"photos_yesterday\tstatement"
+			],
+			[
+				"phot",
+				"photos_evening\tstatement"
+			],
+			[
+				"ha",
+				"half_hour_ago"
+			],
+			[
+				"update",
+				"updateBar"
+			],
+			[
+				"up",
+				"updateBar"
+			],
+			[
+				"rec",
+				"recent_photos\tstatement"
+			],
+			[
+				"recent",
+				"recent_photos"
+			],
+			[
+				"date_",
+				"date__lte"
+			],
+			[
+				"Add",
+				"AddImgUpdateForm\tclass"
+			],
+			[
+				"upda",
+				"updateBarActive"
+			],
+			[
+				"col-",
+				"col-sm-6"
+			],
+			[
+				"backgr",
+				"background-image\tproperty"
+			],
+			[
+				"default",
+				"defaultFontFamily"
+			],
+			[
+				"date__",
+				"date__gte"
+			],
+			[
+				"sear",
+				"searchResultsParent"
+			],
+			[
+				"load",
+				"loadDeferredStylesFunc"
+			],
+			[
+				"can",
+				"cantidad_mujeres"
+			],
+			[
+				"cantidad_",
+				"cantidad_mujeres"
+			],
+			[
+				"canti",
+				"cantidad_hombres"
+			],
+			[
+				"va",
+				"variedad_productos"
+			],
+			[
+				"err",
+				"Error"
+			],
+			[
+				"overf",
+				"overflow-x\tproperty"
+			],
+			[
+				"auto",
+				"auto_now_add"
+			],
+			[
+				"font-s",
+				"font-size\tproperty"
+			],
+			[
+				"thu",
+				"thumbnail_dataurl"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "cloudtables/settings/base.py",
+			"settings":
+			{
+				"buffer_size": 4975,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "authentication/admin.py",
+			"settings":
+			{
+				"buffer_size": 3506,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "password_reset_local/urls.py",
+			"settings":
+			{
+				"buffer_size": 434,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "cloudtables/templates/password_reset/recovery_done.html",
+			"settings":
+			{
+				"buffer_size": 408,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "cloudtables/templates/index/index.js",
+			"settings":
+			{
+				"buffer_size": 3940,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "places/urls.py",
+			"settings":
+			{
+				"buffer_size": 955,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "places/views.py",
+			"settings":
+			{
+				"buffer_size": 10460,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "cloudtables/templates/places/create_place.html",
+			"settings":
+			{
+				"buffer_size": 818,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "cloudtables/templates/places/edit_place.html",
+			"settings":
+			{
+				"buffer_size": 769,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "index/views.py",
+			"settings":
+			{
+				"buffer_size": 954,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "cloudtables/templates/index/index.html",
+			"settings":
+			{
+				"buffer_size": 4189,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "cloudtables/templates/index/choose_place.html",
+			"settings":
+			{
+				"buffer_size": 761,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "cloudtables/templates/index/totals.html",
+			"settings":
+			{
+				"buffer_size": 104,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "cloudtables/templates/index/table_check.html",
+			"settings":
+			{
+				"buffer_size": 1744,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "cloudtables/templates/places/create_item.html",
+			"settings":
+			{
+				"buffer_size": 397,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "cloudtables/templates/places/create_table.html",
+			"settings":
+			{
+				"buffer_size": 398,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "cloudtables/templates/places/edit_table.html",
+			"settings":
+			{
+				"buffer_size": 395,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "cloudtables/templates/places/list_items.html",
+			"settings":
+			{
+				"buffer_size": 1575,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "cloudtables/templates/authentication/login.html",
+			"settings":
+			{
+				"buffer_size": 742,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "password_reset_local/forms.py",
+			"settings":
+			{
+				"buffer_size": 5169,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "cloudtables/templates/authentication/email_confirmation_done.html",
+			"settings":
+			{
+				"buffer_size": 300,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "cloudtables/templates/authentication/signup.html",
+			"settings":
+			{
+				"buffer_size": 740,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "authentication/views.py",
+			"settings":
+			{
+				"buffer_size": 7490,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "authentication/models.py",
+			"settings":
+			{
+				"buffer_size": 2680,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "authentication/confirmations/views.py",
+			"settings":
+			{
+				"buffer_size": 4999,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "authentication/urls.py",
+			"settings":
+			{
+				"buffer_size": 677,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "authentication/confirmations/urls.py",
+			"settings":
+			{
+				"buffer_size": 474,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "cloudtables/templates/places/list_items.js",
+			"settings":
+			{
+				"buffer_size": 546,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "places/forms.py",
+			"settings":
+			{
+				"buffer_size": 1581,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "places/models.py",
+			"settings":
+			{
+				"buffer_size": 2222,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "cloudtables/static/assets/css/main.css",
+			"settings":
+			{
+				"buffer_size": 974,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "cloudtables/templates/base.html",
+			"settings":
+			{
+				"buffer_size": 5439,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "cloudtables/templates/includes/header.html",
+			"settings":
+			{
+				"buffer_size": 2439,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "authentication/forms.py",
+			"settings":
+			{
+				"buffer_size": 8139,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "places/admin.py",
+			"settings":
+			{
+				"buffer_size": 187,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "index/urls.py",
+			"settings":
+			{
+				"buffer_size": 159,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "cloudtables/urls.py",
+			"settings":
+			{
+				"buffer_size": 1091,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "cloudtables/templates/password_reset/recovery_form.html",
+			"settings":
+			{
+				"buffer_size": 558,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "cloudtables/templates/password_reset/reset.html",
+			"settings":
+			{
+				"buffer_size": 556,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "cloudtables/templates/password_reset/recovery_email_subject.txt",
+			"settings":
+			{
+				"buffer_size": 110,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"package control: ins",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 164.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/endusit/Documents/Projects/cloudtables/cloudtables",
+		"/home/endusit/Documents/Projects/cloudtables/cloudtables/cloudtables",
+		"/home/endusit/Documents/Projects/cloudtables/cloudtables/cloudtables/templates",
+		"/home/endusit/Documents/Projects/cloudtables/cloudtables/cloudtables/templates/password_reset",
+		"/home/endusit/Documents/Projects/cloudtables/cloudtables/password_reset_local"
+	],
+	"file_history":
+	[
+		"/home/endusit/Documents/Projects/spotter/spotter/spotter/templates/feedback/feedback_form.html",
+		"/home/endusit/Documents/Projects/spotter/spotter/spotter/templates/index/index.html",
+		"/home/endusit/Documents/Projects/spotter/spotter/spotter/templates/google_analytics_script.html",
+		"/home/endusit/Documents/Projects/spotter/spotter/spotter/templates/index/nearby_offers.css",
+		"/home/endusit/Documents/Projects/spotter/spotter/spotter/templates/index/nearby_spots.css",
+		"/home/endusit/Documents/Projects/spotter/spotter/index/urls.py",
+		"/home/endusit/Documents/Projects/spotter/spotter/spotter/templates/index/recents.css",
+		"/home/endusit/Documents/Projects/spotter/spotter/index/views.py",
+		"/home/endusit/Documents/Projects/spotter/spotter/spotter/urls.py",
+		"/home/endusit/Documents/Projects/spotter/spotter/search/urls.py",
+		"/home/endusit/Documents/Projects/spotter/spotter/offers/forms.py",
+		"/home/endusit/Documents/Projects/spotter/spotter/offers/urls.py",
+		"/home/endusit/Documents/Projects/spotter/spotter/offers/views.py",
+		"/home/endusit/Documents/Projects/spotter/spotter/authentication/admin.py",
+		"/home/endusit/Documents/Projects/spotter/spotter/authentication/validators.py",
+		"/home/endusit/.Envs/spotter-dev-env/lib/python3.5/site-packages/django/forms/fields.py",
+		"/home/endusit/.Envs/spotter-dev-env/lib/python3.5/site-packages/django/contrib/auth/forms.py",
+		"/home/endusit/Documents/Projects/spotter/spotter/authentication/forms.py",
+		"/home/endusit/Documents/Projects/spotter/spotter/authentication/models.py",
+		"/home/endusit/Documents/Projects/spotter/spotter/authentication/urls.py",
+		"/home/endusit/Documents/Projects/spotter/spotter/user_profile/models.py",
+		"/home/endusit/Documents/Projects/spotter/spotter/spotter/templates/authentication/registration_confirmation_email.html",
+		"/home/endusit/Documents/Projects/spotter/spotter/authentication/confirmations/urls.py",
+		"/home/endusit/Documents/Projects/spotter/spotter/spotter/templates/authentication/confirmations/ownership_confirmation_done.html",
+		"/home/endusit/Documents/Projects/spotter/spotter/spotter/templates/authentication/confirmations/email_confirmation_done.html",
+		"/home/endusit/Documents/Projects/spotter/spotter/authentication/confirmations/views.py",
+		"/home/endusit/Documents/Projects/spotter/spotter/authentication/views.py",
+		"/home/endusit/Documents/Projects/spotter/spotter/offers/models.py",
+		"/home/endusit/Documents/Projects/spotter/spotter/search/models.py",
+		"/home/endusit/Documents/Projects/spotter/spotter/spotter/static/robots.txt",
+		"/home/endusit/Documents/Projects/spotter/spotter/spotter/templates/index/spot_offers.html",
+		"/home/endusit/Documents/Projects/spotter/spotter/spotter/settings/development.py",
+		"/home/endusit/Documents/Projects/spotter/spotter/spotter/templates/includes/header.html",
+		"/home/endusit/Documents/Projects/spotter/spotter/spotter/templates/spots/check_spot.js",
+		"/home/endusit/Documents/Projects/spotter/spotter/spotter/static/assets/js/xorTap.js",
+		"/home/endusit/Documents/Projects/spotter/spotter/spotter/static/assets/js/doubleTap.js",
+		"/home/endusit/Documents/Projects/spotter/spotter/spotter/templates/index/search_results.css",
+		"/home/endusit/Documents/Projects/spotter/spotter/spotter/templates/index/search_results.html",
+		"/home/endusit/Documents/Projects/spotter/spotter/spotter/templates/index/recent_updates.html",
+		"/home/endusit/Documents/Projects/spotter/spotter/spotter/templates/index/recent_added.html",
+		"/home/endusit/Documents/Projects/spotter/spotter/spotter/settings/key.py",
+		"/home/endusit/Documents/Projects/spotter/spotter/spotter/settings/production.py",
+		"/home/endusit/Documents/Projects/spotter/spotter/spotter/settings/staging.py",
+		"/home/endusit/Documents/Projects/spotter/spotter/spotter/settings/testing.py",
+		"/home/endusit/Documents/Projects/spotter/spotter/spotter/static/assets/css/main.css",
+		"/home/endusit/test/doubleTap.js/index.html",
+		"/home/endusit/Documents/Projects/spotter/spotter/spotter/settings/__init__.py",
+		"/home/endusit/Documents/Projects/semas/semas/semas/settings.py",
+		"/home/endusit/Documents/WebDesignOnDemand/urugrow/urugrow/templates/academia/inscripcion.html",
+		"/home/endusit/.config/sublime-text-3/Packages/User/Plain text.sublime-settings",
+		"/home/endusit/Documents/Projects/urucoin/cripto/contact/__init__.py",
+		"/home/endusit/Documents/Projects/urucoin/urucoin/authentication/models.py",
+		"/home/endusit/Documents/Projects/urucoin/urucoin/urucoin/templates/includes/header.html",
+		"/home/endusit/Documents/Projects/urucoin/urucoin/exchange/views.py",
+		"/home/endusit/Documents/Projects/urucoin/urucoin/exchange/models.py",
+		"/home/endusit/Documents/Projects/urucoin/urucoin/urucoin/static/assets/css/main.css",
+		"/home/endusit/Documents/Projects/urucoin/urucoin/urucoin/templates/perfil/dashboard.html",
+		"/home/endusit/Documents/Projects/urucoin/urucoin/urucoin/templates/index/index.html",
+		"/home/endusit/Documents/Projects/urucoin/urucoin/urucoin/templates/perfil/perfil.html",
+		"/home/endusit/Documents/Projects/urucoin/urucoin/perfil/views.py",
+		"/home/endusit/Documents/Projects/urucoin/urucoin/index/urls.py",
+		"/home/endusit/Documents/Projects/urucoin/urucoin/perfil/urls.py",
+		"/home/endusit/Documents/Projects/urucoin/urucoin/perfil/models.py",
+		"/home/endusit/Documents/Projects/urucoin/urucoin/urucoin/urls.py",
+		"/home/endusit/Documents/Projects/urucoin/urucoin/urucoin/templates/authentication/login.html",
+		"/home/endusit/Documents/Projects/urucoin/urucoin/authentication/views.py",
+		"/home/endusit/Documents/Projects/urucoin/urucoin/urucoin/settings.py",
+		"/home/endusit/Documents/Projects/urucoin/urucoin/urucoin/templates/includes/footer.html",
+		"/home/endusit/Documents/WebDesignOnDemand/drinKings/development/drinkings/contacto/views.py"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"item"
+		],
+		"highlight": true,
+		"in_selection": true,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"table"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 29,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "cloudtables/settings/base.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4975,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2719,
+								2719
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": ".",
+									"selector": "source.python - string - comment - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								}
+							],
+							"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1243.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "authentication/admin.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3506,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3478,
+								3478
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 14,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "password_reset_local/urls.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 434,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "cloudtables/templates/password_reset/recovery_done.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 408,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								280,
+								280
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Djaneiro/Syntaxes/HTML (Django).tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "cloudtables/templates/index/index.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3940,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3940,
+								3940
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1360.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 25,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "places/urls.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 955,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								364,
+								364
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": ".",
+									"selector": "source.python - string - comment - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								}
+							],
+							"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 24,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "places/views.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 10460,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								10166,
+								10166
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": ".",
+									"selector": "source.python - string - comment - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								}
+							],
+							"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 4806.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 19,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "cloudtables/templates/places/create_place.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 818,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								592,
+								592
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Djaneiro/Syntaxes/HTML (Django).tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 22,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "cloudtables/templates/places/edit_place.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 769,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								533,
+								533
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Djaneiro/Syntaxes/HTML (Django).tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 23,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "index/views.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 954,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								238,
+								238
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": ".",
+									"selector": "source.python - string - comment - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								}
+							],
+							"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "cloudtables/templates/index/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4189,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								833,
+								833
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"syntax": "Packages/Djaneiro/Syntaxes/HTML (Django).tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 21,
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "cloudtables/templates/index/choose_place.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 761,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								335,
+								335
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Djaneiro/Syntaxes/HTML (Django).tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 16,
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "cloudtables/templates/index/totals.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 104,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								51,
+								51
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Djaneiro/Syntaxes/HTML (Django).tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 37,
+					"type": "text"
+				},
+				{
+					"buffer": 13,
+					"file": "cloudtables/templates/index/table_check.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1744,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								65,
+								65
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Djaneiro/Syntaxes/HTML (Django).tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 38,
+					"type": "text"
+				},
+				{
+					"buffer": 14,
+					"file": "cloudtables/templates/places/create_item.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 397,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"syntax": "Packages/Djaneiro/Syntaxes/HTML (Django).tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 28,
+					"type": "text"
+				},
+				{
+					"buffer": 15,
+					"file": "cloudtables/templates/places/create_table.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 398,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								96,
+								96
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Djaneiro/Syntaxes/HTML (Django).tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 34,
+					"type": "text"
+				},
+				{
+					"buffer": 16,
+					"file": "cloudtables/templates/places/edit_table.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 395,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								85,
+								85
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Djaneiro/Syntaxes/HTML (Django).tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 33,
+					"type": "text"
+				},
+				{
+					"buffer": 17,
+					"file": "cloudtables/templates/places/list_items.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1575,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1038,
+								1038
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Djaneiro/Syntaxes/HTML (Django).tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 20,
+					"type": "text"
+				},
+				{
+					"buffer": 18,
+					"file": "cloudtables/templates/authentication/login.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 742,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								632,
+								632
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Djaneiro/Syntaxes/HTML (Django).tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 11,
+					"type": "text"
+				},
+				{
+					"buffer": 19,
+					"file": "password_reset_local/forms.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5169,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4112,
+								4112
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": ".",
+									"selector": "source.python - string - comment - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								}
+							],
+							"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1620.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 20,
+					"file": "cloudtables/templates/authentication/email_confirmation_done.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 300,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								223,
+								223
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Djaneiro/Syntaxes/HTML (Django).tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 29,
+					"type": "text"
+				},
+				{
+					"buffer": 21,
+					"file": "cloudtables/templates/authentication/signup.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 740,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								420,
+								420
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Djaneiro/Syntaxes/HTML (Django).tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 13,
+					"type": "text"
+				},
+				{
+					"buffer": 22,
+					"file": "authentication/views.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7490,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								7132,
+								7132
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": ".",
+									"selector": "source.python - string - comment - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								}
+							],
+							"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 3373.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 23,
+					"file": "authentication/models.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2680,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1769,
+								1769
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": ".",
+									"selector": "source.python - string - comment - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								}
+							],
+							"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 648.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 32,
+					"type": "text"
+				},
+				{
+					"buffer": 24,
+					"file": "authentication/confirmations/views.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4999,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4244,
+								4244
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": ".",
+									"selector": "source.python - string - comment - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								}
+							],
+							"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2006.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 15,
+					"type": "text"
+				},
+				{
+					"buffer": 25,
+					"file": "authentication/urls.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 677,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								539,
+								539
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": ".",
+									"selector": "source.python - string - comment - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								}
+							],
+							"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 30,
+					"type": "text"
+				},
+				{
+					"buffer": 26,
+					"file": "authentication/confirmations/urls.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 474,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								214,
+								214
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 27,
+					"file": "cloudtables/templates/places/list_items.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 546,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								546,
+								546
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 36,
+					"type": "text"
+				},
+				{
+					"buffer": 28,
+					"file": "places/forms.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1581,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								474,
+								474
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": ".",
+									"selector": "source.python - string - comment - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								}
+							],
+							"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 54.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 27,
+					"type": "text"
+				},
+				{
+					"buffer": 29,
+					"file": "places/models.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2222,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1417,
+								1417
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": ".",
+									"selector": "source.python - string - comment - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								}
+							],
+							"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 756.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 30,
+					"file": "cloudtables/static/assets/css/main.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 974,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								495,
+								495
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Djaneiro/Syntaxes/CSS (Django).tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 648.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 17,
+					"type": "text"
+				},
+				{
+					"buffer": 31,
+					"file": "cloudtables/templates/base.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5439,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3124,
+								3124
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 270.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 35,
+					"type": "text"
+				},
+				{
+					"buffer": 32,
+					"file": "cloudtables/templates/includes/header.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2439,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1608,
+								1608
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Djaneiro/Syntaxes/HTML (Django).tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 216.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 18,
+					"type": "text"
+				},
+				{
+					"buffer": 33,
+					"file": "authentication/forms.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 8139,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3115,
+								3115
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": ".",
+									"selector": "source.python - string - comment - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								}
+							],
+							"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 5076.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 31,
+					"type": "text"
+				},
+				{
+					"buffer": 34,
+					"file": "places/admin.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 187,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								187,
+								187
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": ".",
+									"selector": "source.python - string - comment - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								}
+							],
+							"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 39,
+					"type": "text"
+				},
+				{
+					"buffer": 35,
+					"file": "index/urls.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 159,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								158,
+								158
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": ".",
+									"selector": "source.python - string - comment - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								}
+							],
+							"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 26,
+					"type": "text"
+				},
+				{
+					"buffer": 36,
+					"file": "cloudtables/urls.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1091,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								939,
+								939
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": ".",
+									"selector": "source.python - string - comment - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								}
+							],
+							"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 12,
+					"type": "text"
+				},
+				{
+					"buffer": 37,
+					"file": "cloudtables/templates/password_reset/recovery_form.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 558,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								324,
+								324
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Djaneiro/Syntaxes/HTML (Django).tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 38,
+					"file": "cloudtables/templates/password_reset/reset.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 556,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								191,
+								191
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Djaneiro/Syntaxes/HTML (Django).tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 39,
+					"file": "cloudtables/templates/password_reset/recovery_email_subject.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 110,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								90,
+								90
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Djaneiro/Syntaxes/HTML (Django).tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "cloudtables.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 390.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

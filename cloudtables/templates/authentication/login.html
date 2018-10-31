@@ -1,0 +1,21 @@
+{% extends 'base.html' %}
+{% load static %}
+{% load i18n %}
+
+{% block content %}
+    <div class="container">
+        <div class="authForm">
+            <form method="POST">
+                {% csrf_token %}
+                {{ form }}
+                <button class="btn btn-primary form-control" type="submit">{% trans 'Iniciar sesión' %}</button>
+            </form>
+            <hr />
+            <p>{% trans 'No tenes un usuario?' %}</p>
+            <a href="/auth/signup/" class="btn btn-info">{% trans 'Crear usuario' %}</a>
+            <hr />
+            <p>{% trans 'Olvidaste tu contraseña?' %}</p>
+            <a href="/auth/recover/" class="btn btn-info">{% trans 'Recuperar contraseña' %}</a>
+        </div>
+    </div>
+{% endblock %}

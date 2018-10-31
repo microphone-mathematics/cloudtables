@@ -1,0 +1,84 @@
+
+/* RESET */
+
+* {
+	font-family: 'Tajawal', sans-serif;
+}
+
+h1 {
+	font-family: 'Fira Sans', sans-serif;
+	text-align: center;
+}
+
+a {
+	color: #7c41bd;
+}
+
+a:hover {
+	text-decoration: none;
+}
+
+.btn-circle {
+  width: 90%;
+  text-align: center;
+  padding-top: 90%;
+  border-radius: 50%;
+  position: relative;
+}
+
+.btn-circle p {
+	margin: auto;
+	position: absolute;
+	top: 20%;
+	left: 0;
+	bottom: 0;
+	right: 0;
+
+}
+
+nav#header {
+	margin-bottom: 50px;
+}
+
+div.placePicker {
+	text-align: center;
+	margin-top: 2em;
+}
+
+div.placePicker img {
+	width: 200px;
+	height: 200px;
+}
+
+div#placeName h1 {
+	margin-top: .6em;
+	margin-left: .5em;
+	margin-bottom: 1em;
+}
+
+div#editPlaceBtnDiv {
+	padding-top: 2.3em;
+}
+
+div.addItemToTableForm input[type="number"] {
+	width: 20%;
+}
+
+#items-list .row {
+	border: solid 1px #e3e3e3;
+	padding: 1em;
+}
+
+#items-list .row:hover {
+	background-color: #f0f0f0;
+}
+
+div.authForm {
+	width: 50%;
+	margin: 0 auto;
+}
+
+div.authForm,
+div.authForm input {
+	text-align: center;
+}

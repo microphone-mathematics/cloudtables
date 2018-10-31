@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+{% load static %}
+{% load i18n %}
+<html lang="es">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+        <meta name="description" content="Spotter. Search and find any spot and check out how is it on real time. Share Updates, Ratings, Real time images, Maps, Routes and people-place connections for free">
+        <meta name="keywords" content="spotter search find spot check out real time share update free maps services">
+        <meta name="apple-mobile-web-app-capable" content="yes">
+        <meta name="apple-mobile-web-app-title" content="Spotter">
+        <meta name="apple-mobile-web-app-status-bar-style" content="black">
+        <link rel="shortcut icon" href="{% static 'favicon.ico' %}" type="image/x-icon">
+        <link rel="apple-touch-icon" href="{% static 'spotter-homescreen-icon.png' %}">
+        <link rel="apple-touch-startup-image" href="{% static 'spotter-startup-image-320x460.png' %}" media="(device-width: 320px) and (device-height: 460px)">
+        <!-- iPhone 5 / SE Startup Screen -->
+        <link rel="apple-touch-startup-image" href="{% static 'spotter-startup-image.png' %}" media="(device-width: 320px) and (device-height: 568px) and (-webkit-device-pixel-ratio: 2)">
+        <!-- iPhone 6/7/8 Startup Screen -->
+        <link rel="apple-touch-startup-image" href="{% static 'spotter-startup-image-750x1344.png' %}" media="(device-width: 375px) and (-webkit-device-pixel-ratio: 2)">
+        <!-- iPhone 6/7/8 Plus Startup Screen -->
+        <link rel="apple-touch-startup-image" href="{% static 'spotter-startup-image-1242x2208.png' %}" media="(device-width: 414px) and (-webkit-device-pixel-ratio: 3)">
+
+        <noscript id="deferred-styles">
+        {% block defered_styles %}
+        <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css" integrity="sha384-DNOHZ68U8hZfKXOrtjWvjxusGo9WQnrNx2sqG0tfsghAvtVlRW3tvkXWZh58N9jp" crossorigin="anonymous">
+            <link rel="stylesheet" type="text/css" href="{% static 'assets/css/main.css' %}"/>
+        {% endblock %}
+    </noscript>
+        <title>Cloudtables | {% block title %}{{ title }}{% endblock %}</title>
+        {% block stylesheets %}
+        {% load static %}
+            <link rel="stylesheet" href="{% static 'assets/css/bootstrap.min.css' %}" crossorigin="anonymous">
+            <!--<link href="{% static 'nirvanahub/assets/css/bootstrap.min.css' %}" rel="stylesheet" type="text/css"/>-->
+
+<!-- Optional theme -->
+            <!--<link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">-->
+            <!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
+            <!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
+        <!--[if lte IE 9]><link rel="stylesheet" href="assets/css/ie9.css" /><![endif]-->
+        {% endblock %}
+    </head>
+
+    <body>
+    {% block header %}
+        {% include 'includes/header.html' %}
+    {% endblock %}
+
+    {% block content %}{% endblock %}
+    
+
+    {% block footer %}
+            {% include "includes/footer.html" %}
+    {% endblock %}
+                        
+
+{% block scripts %}
+                        <script>
+                          var loadDeferredStyles = function() {
+                            var addStylesNode = document.getElementById("deferred-styles");
+                            var replacement = document.createElement("div");
+                            replacement.innerHTML = addStylesNode.textContent;
+                            document.body.appendChild(replacement)
+                            addStylesNode.parentElement.removeChild(addStylesNode);
+                          };
+                          var raf = window.requestAnimationFrame || window.mozRequestAnimationFrame ||
+                              window.webkitRequestAnimationFrame || window.msRequestAnimationFrame;
+                          if (raf) raf(function() { window.setTimeout(loadDeferredStyles, 0); });
+                          else window.addEventListener('load', loadDeferredStyles);
+                        </script>
+        <!-- Scripts -->
+                        <script src="{% static 'assets/js/jquery.min.js' %}"></script>
+                        <script src="{% static 'assets/js/bootstrap.min.js' %}"></script>
+                        <!--<script async src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script> -->
+                    <!--
+                        <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key={{ maps_api_key }}&libraries=places&language=es"></script>
+                    -->
+                    <!--
+                        <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.4.0/Chart.bundle.min.js"></script>
+                    -->
+                    <!--
+                        <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key={{ maps_api_key }}&libraries=places"></script>
+                    -->
+                        <!--[if lte IE 8]><script src="assets/js/ie/respond.min.js"></script><![endif]-->
+
+{% endblock %}
+    </body>
+</html>

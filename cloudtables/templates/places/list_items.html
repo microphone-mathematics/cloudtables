@@ -1,0 +1,44 @@
+{% extends 'base.html' %}
+{% load static %}
+{% load i18n %}
+
+{% block title %}
+    {{ place.name }} - Items
+{% endblock %}
+
+{% block content %}
+    <div class="container">
+        <div id="placeName" class="row">
+            <div class="col-lg-1 col-md-1 col-sm-1 col-xs-6">
+                <img src="/media/{{ place.profile_pic }}" class="rounded-circle" width="100px">
+            </div>
+            <div class="col-lg-11 col-md-11 col-sm-11 col-xs-6">
+                <h1>{{ place.name }}</h1>
+            </div>
+        </div>
+        
+            <div id="items-list">
+                {% for item in items %}
+                    <div class="row" id="item-{{ item.id }}">
+                        <div class="col-lg-5 col-md-5 col-sm-5 col-xs-5">
+                            <h5>{{ item.name }}</h5>
+                        </div>
+                        <div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
+                            <h6>${{ item.price }}</h6>
+                        </div>
+                        <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4">
+                            <a class="btn btn-info" href="/places/edit-item/{{ item.id }}/">{% trans 'Editar item' %}</a>
+                            <a class="btn btn-danger deleteItem" data-item-id={{ item.id }}>{% trans 'Eliminar item' %}</a>
+                        </div>
+                    </div>
+                {% endfor %}
+            </div>
+    </div>
+{% endblock %}
+
+{% block scripts %}
+    {{ block.super }}
+    <script>
+        {% include 'places/list_items.js' %}
+    </script>
+{% endblock %}

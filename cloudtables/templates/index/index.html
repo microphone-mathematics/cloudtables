@@ -1,0 +1,92 @@
+{% extends 'base.html' %}
+{% load static %}
+{% load i18n %}
+
+{% block title %}
+    {{ place.name }}
+{% endblock %}
+
+
+{% block content %}
+    <div class="container">
+        <div id="placeName" class="row">
+            <div class="col-lg-2 col-md-2 col-sm-2 col-xs-6">
+                {% if place.profile_pic %}
+                    <img src="/media/{{ place.profile_pic }}" class="rounded-circle" width="100px">
+                {% else %}
+                    <a href="/places/edit/{{ place.id }}" class="btn btn-info btn-circle"><p>{% trans 'Agregar<br>foto<br>de perfíl' %}</p></a>
+                {% endif %}
+            </div>
+            <div class="col-lg-8 col-md-8 col-sm-8 col-xs-6">
+                <h1>{{ place.name }}</h1>
+            </div>
+            <div class="col-lg-2 col-md-2 col-sm-2 col-xs-12" id="editPlaceBtnDiv">
+                <a href="/places/edit/{{ place.id }}" class="btn btn-info">{% trans 'Editar lugar' %}</a>
+            </div>
+        </div>
+
+        {% if not items %}
+            <div class="alert alert-info">
+                <p>{% trans 'No hás creado ningún item para este lugar' %}</p>
+                <a href="/places/add-item/{{ place.id }}">{% trans 'Crear items' %}</a>
+            </div>
+        {% endif %}
+        {% if tables %}
+            <div class="accordion" id="accordionExample">
+                {% for table in tables %}
+                  <div class="card" id="table-{{ table.id }}">
+                    <div class="card-header" id="heading{{ forloop.counter }}">
+                    <div class="row">
+                    <div class="col-lg-2 col-md-2 col-sm-2 col-xs-12">
+                      <h5 class="mb-0">
+                        <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapse{{ forloop.counter }}" aria-expanded="false" aria-controls="collapse{{ forloop.counter }}">
+                          {{ table.name }}
+                        </button> 
+                      </h5>
+                    </div>
+                    <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 addItemToTableForm">
+                      <form class="form form-inline" data-table-id={{ table.id }} data-place-id={{ place.id }}>
+                            <select name="item" class="form-control">
+                                {% for item in items %}
+                                    <option value={{ item.id }}>{{ item.name }}</option>
+                                {% endfor %}
+                            </select>
+                            <input type="number" name="quantity" min="1" value=1 class="form-control">
+                            <button type="submit" class="btn">Agregar</button>
+                        </form>
+                    </div>
+                    <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
+                            <a href="/places/edit-table/{{ table.id }}/" class="btn btn-info">{% trans 'Editar mesa' %}</a>
+                            <a class="btn btn-danger deleteTable" data-table-id="{{ table.id }}">{% trans 'Eliminar mesa' %}</a>
+                    </div>
+                    </div>
+                    </div>
+
+                    <div id="collapse{{ forloop.counter }}" class="collapse" aria-labelledby="heading{{ forloop.counter }}" data-parent="#accordionExample">
+                      <div class="card-body">
+                        <h6>Cuenta</h6>
+                        <div class="table-check" data-table-id="{{ table.id }}">
+                            {% include 'index/table_check.html' %}
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+              {% endfor %}
+            </div>
+            <div id="totals">
+                {% include 'index/totals.html' %}
+            </div>
+        {% else %}
+            <div class="alert alert-info">
+                <p>{% trans 'No hay mesas en este lugar' %}. <a href="/places/add-table/{{ place.id }}">{% trans 'Crear mesas' %}</a></p>
+            </div>
+        {% endif %}
+    </div>
+{% endblock %}
+
+{% block scripts %}
+    {{ block.super }}
+    <script>
+        {% include 'index/index.js' %}
+    </script>
+{% endblock %}

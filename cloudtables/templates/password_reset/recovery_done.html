@@ -1,0 +1,19 @@
+{% extends "base.html" %}
+{% load static %}
+
+
+{% block content %}
+	{% if not user.is_authenticated %}
+		<div id="mainLoginScreen" class="container">
+		<div id="loginBox" class="authForm">
+			<div>
+				<p style="color:red">{{ error }}</p>
+			</div>
+			<div>
+				<h2>Listo!</h2> <hr />
+				<a href="/auth/login/" class="btn btn-success">Iniciar sesión</a>
+			</div>
+		</div>
+	</div>
+	{% endif %}
+{% endblock %}

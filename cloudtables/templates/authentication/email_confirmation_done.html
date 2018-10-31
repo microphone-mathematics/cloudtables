@@ -1,0 +1,12 @@
+{% extends 'base.html' %}
+{% load static %}
+{% load i18n %}
+
+{% block content %}
+    <div class="container">
+        <h1>ok</h1>
+        {% if user.is_place_owner %}
+            <a class="btn btn-info" href="/places/create/">{% trans 'Crear lugar' %}</a>
+        {% endif %}
+    </div>
+{% endblock %}
