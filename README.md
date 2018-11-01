@@ -1,17 +1,17 @@
 # Cloudtables
 
-## A simple web based table administration platform for small food serving places.
+A simple web based table administration platform for small food serving places.
 
-### Requirements
+## Requirements
 - mkvirtualenv
 - python3 / pip3
 - django
 
-### Instalation
+## Installation
 
 Clone this repository.
 
-#### Development 
+### Development 
 
 ```bash
 $ sudo apt install mkvirtualenv
