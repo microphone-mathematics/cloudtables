@@ -1,6 +1,6 @@
 # Cloudtables
 
-A simple web based table administration platform for small food serving places.
+A simple web based table administration platform for small food serving places built with Django and PostgreSQL.
 
 ## Requirements
 - mkvirtualenv
