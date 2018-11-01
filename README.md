@@ -11,9 +11,9 @@ A simple web based table administration platform for small food serving places b
 
 Clone this repository.
 
-### Development 
+#### Development 
 
-```bash
+```
 $ sudo apt install mkvirtualenv
 $ source /usr/share/virtualenvwrapper/virtualenvwrapper.sh
 $ mkdir ~/.Envs/
@@ -34,7 +34,7 @@ unset DJANGO_SETTINGS_MODULE
 ```
 
 Then run:
-```bash
+```
 $ workon VIRTUALENV_NAME
 $ pip install -r requirements
 $ git clone https://github.com/microphone-mathematics/create-django-postgres-db.git ~/create-psql-db/
@@ -44,7 +44,7 @@ $ sh ~/create-psql-db/create_psql_database.sh cloudtables
 After that edit PROJECT_ROOT/cloudtables/settings/base.py and look for the database configuration and set username to 'cloudtablespsql' and password to the one you just choose when executing create_psql_database.sh
 
 Finishing steps:
-```bash
+```
 $ ./manage.py migrate
 $ ./manage.py runserver
 ```
